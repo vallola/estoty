@@ -1,0 +1,5 @@
+logger:
+  level: "DEBUG"
+runtime:
+  env:
+    - "GAME_CONFIG_PATH=/nakama/data/modules/game_config.json"

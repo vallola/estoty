@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "welcome_message": "Hello there, traveler!",
+    "xp_rate": 0.65,
+    "rarity_options": ["COMMON", "RARE", "LEGENDARY"]
+}
