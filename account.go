@@ -46,5 +46,5 @@ func UpdateAccountMetadata(ctx context.Context, logger runtime.Logger, db *sql.D
 		return "", runtime.NewError("Internal error", INTERNAL)
 	}
 	
-	return "{}", nil
+	return payload, nil
 }
